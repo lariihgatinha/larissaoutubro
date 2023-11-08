@@ -1,8 +1,11 @@
 :root{
     --cor-de-fundo:#9949B4;
     --cor-cabecalho:#FFFFFF;
+    --fonte-principal:"roboto";
+    --fonte-secundaria:"open sans";
+      
 }
-        body{
+    body{
             background-color: var(--cor-de-fundo);
             margin: 0;
         }

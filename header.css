@@ -30,5 +30,19 @@
         display: block;
         font-size: 20px;
         padding-left: 5em;
+ 
     }
+    .container-titulo{
+        font-family:var(--fonte-principal);
+        font-size:30px;
+        font-weight:400;        
+}
+.container-titulo-negrito{
+    font-weight: 700;
+}
+
+.container-frase{
+    font-family:var(--fonte-secundaria);
+    font-weight:300;
+}
 }
